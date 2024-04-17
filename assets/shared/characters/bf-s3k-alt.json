@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle Alt"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BF_S3K_Assets",
+	"position": [
+		130,
+		430
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-170,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

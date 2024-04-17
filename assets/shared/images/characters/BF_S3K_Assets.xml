@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_S3K_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="5" y="5" width="35" height="35"/>
+	<SubTexture name="Idle0001" x="5" y="5" width="35" height="35"/>
+	<SubTexture name="Idle0002" x="45" y="5" width="35" height="35"/>
+	<SubTexture name="Idle0003" x="45" y="5" width="35" height="35"/>
+	<SubTexture name="Idle0004" x="85" y="5" width="35" height="35"/>
+	<SubTexture name="Idle0005" x="85" y="5" width="35" height="35"/>
+	<SubTexture name="Idle0006" x="125" y="5" width="35" height="35"/>
+	<SubTexture name="Idle0007" x="125" y="5" width="35" height="35"/>
+	<SubTexture name="Idle0008" x="165" y="5" width="35" height="35"/>
+	<SubTexture name="Idle0009" x="165" y="5" width="35" height="35"/>
+	<SubTexture name="Idle0010" x="165" y="5" width="35" height="35"/>
+	<SubTexture name="Idle0011" x="165" y="5" width="35" height="35"/>
+	<SubTexture name="Idle0012" x="165" y="5" width="35" height="35"/>
+	<SubTexture name="Idle0013" x="165" y="5" width="35" height="35"/>
+	<SubTexture name="Idle Alt0000" x="205" y="5" width="35" height="35"/>
+	<SubTexture name="Idle Alt0001" x="205" y="5" width="35" height="35"/>
+	<SubTexture name="Idle Alt0002" x="5" y="45" width="35" height="35"/>
+	<SubTexture name="Idle Alt0003" x="5" y="45" width="35" height="35"/>
+	<SubTexture name="Idle Alt0004" x="45" y="45" width="35" height="35"/>
+	<SubTexture name="Idle Alt0005" x="45" y="45" width="35" height="35"/>
+	<SubTexture name="Idle Alt0006" x="85" y="45" width="35" height="35"/>
+	<SubTexture name="Idle Alt0007" x="85" y="45" width="35" height="35"/>
+	<SubTexture name="Idle Alt0008" x="125" y="45" width="35" height="35"/>
+	<SubTexture name="Idle Alt0009" x="125" y="45" width="35" height="35"/>
+	<SubTexture name="Idle Alt0010" x="125" y="45" width="35" height="35"/>
+	<SubTexture name="Idle Alt0011" x="125" y="45" width="35" height="35"/>
+	<SubTexture name="Idle Alt0012" x="125" y="45" width="35" height="35"/>
+	<SubTexture name="Idle Alt0013" x="125" y="45" width="35" height="35"/>
+</TextureAtlas>

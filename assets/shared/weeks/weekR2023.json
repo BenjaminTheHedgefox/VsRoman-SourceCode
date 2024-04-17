@@ -1,0 +1,59 @@
+{
+	"storyName": "bro just use freeplay dude",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "christmas",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekR",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"gf",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Old Star",
+			"roman-classic",
+			[
+				86,
+				120,
+				255
+			]
+		],
+		[
+			"Great Debate",
+			"sonic",
+			[
+				0,
+				73,
+				213
+			]
+		],
+		[
+			"Locked-In",
+			"lachlan",
+			[
+				246,
+				120,
+				40
+			]
+		],
+		[
+			"Respite (UTAU)",
+			"roman",
+			[
+				86,
+				0,
+				235
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Freeplay",
+	"hiddenUntilUnlocked": false
+}

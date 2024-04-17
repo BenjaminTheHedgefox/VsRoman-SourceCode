@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lampyTheLampost.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lampost0000" x="5" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0001" x="5" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0002" x="5" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0003" x="5" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0004" x="85" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0005" x="85" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0006" x="85" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0007" x="85" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0008" x="85" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0009" x="165" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0010" x="165" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0011" x="165" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0012" x="165" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0013" x="165" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0014" x="85" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0015" x="85" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0016" x="85" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0017" x="85" y="5" width="75" height="277"/>
+	<SubTexture name="lampost0018" x="85" y="5" width="75" height="277"/>
+</TextureAtlas>

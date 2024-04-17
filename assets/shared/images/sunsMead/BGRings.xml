@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGRings.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ringerdinger0000" x="5" y="5" width="302" height="132" frameX="0" frameY="-1" frameWidth="302" frameHeight="135"/>
+	<SubTexture name="Ringerdinger0001" x="5" y="5" width="302" height="132" frameX="0" frameY="-1" frameWidth="302" frameHeight="135"/>
+	<SubTexture name="Ringerdinger0002" x="312" y="5" width="282" height="133" frameX="-8" frameY="0" frameWidth="302" frameHeight="135"/>
+	<SubTexture name="Ringerdinger0003" x="312" y="5" width="282" height="133" frameX="-8" frameY="0" frameWidth="302" frameHeight="135"/>
+	<SubTexture name="Ringerdinger0004" x="599" y="5" width="261" height="133" frameX="-14" frameY="0" frameWidth="302" frameHeight="135"/>
+	<SubTexture name="Ringerdinger0005" x="599" y="5" width="261" height="133" frameX="-14" frameY="0" frameWidth="302" frameHeight="135"/>
+	<SubTexture name="Ringerdinger0006" x="5" y="143" width="253" height="134" frameX="-18" frameY="-1" frameWidth="302" frameHeight="135"/>
+	<SubTexture name="Ringerdinger0007" x="5" y="143" width="253" height="134" frameX="-18" frameY="-1" frameWidth="302" frameHeight="135"/>
+	<SubTexture name="Ringerdinger0008" x="263" y="143" width="232" height="132" frameX="-25" frameY="-1" frameWidth="302" frameHeight="135"/>
+	<SubTexture name="Ringerdinger0009" x="263" y="143" width="232" height="132" frameX="-25" frameY="-1" frameWidth="302" frameHeight="135"/>
+	<SubTexture name="Ringerdinger0010" x="500" y="143" width="253" height="134" frameX="-18" frameY="-1" frameWidth="302" frameHeight="135"/>
+	<SubTexture name="Ringerdinger0011" x="500" y="143" width="253" height="134" frameX="-18" frameY="-1" frameWidth="302" frameHeight="135"/>
+	<SubTexture name="Ringerdinger0012" x="5" y="282" width="262" height="133" frameX="-15" frameY="0" frameWidth="302" frameHeight="135"/>
+	<SubTexture name="Ringerdinger0013" x="5" y="282" width="262" height="133" frameX="-15" frameY="0" frameWidth="302" frameHeight="135"/>
+	<SubTexture name="Ringerdinger0014" x="272" y="282" width="282" height="133" frameX="-8" frameY="0" frameWidth="302" frameHeight="135"/>
+	<SubTexture name="Ringerdinger0015" x="272" y="282" width="282" height="133" frameX="-8" frameY="0" frameWidth="302" frameHeight="135"/>
+</TextureAtlas>

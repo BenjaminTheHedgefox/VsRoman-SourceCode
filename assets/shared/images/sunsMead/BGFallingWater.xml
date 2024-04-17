@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGFallingwater.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Waterfall0000" x="5" y="5" width="772" height="323" frameX="0" frameY="0" frameWidth="796" frameHeight="344"/>
+	<SubTexture name="Waterfall0001" x="5" y="5" width="772" height="323" frameX="0" frameY="0" frameWidth="796" frameHeight="344"/>
+	<SubTexture name="Waterfall0002" x="5" y="333" width="780" height="327" frameX="-4" frameY="-6" frameWidth="796" frameHeight="344"/>
+	<SubTexture name="Waterfall0003" x="5" y="333" width="780" height="327" frameX="-4" frameY="-6" frameWidth="796" frameHeight="344"/>
+	<SubTexture name="Waterfall0004" x="5" y="665" width="795" height="343" frameX="-1" frameY="-1" frameWidth="796" frameHeight="344"/>
+	<SubTexture name="Waterfall0005" x="5" y="665" width="795" height="343" frameX="-1" frameY="-1" frameWidth="796" frameHeight="344"/>
+</TextureAtlas>

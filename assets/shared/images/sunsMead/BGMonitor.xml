@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGMonitor.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Monte0000" x="5" y="5" width="223" height="196"/>
+	<SubTexture name="Monte0001" x="5" y="5" width="223" height="196"/>
+	<SubTexture name="Monte0002" x="233" y="5" width="223" height="196"/>
+	<SubTexture name="Monte0003" x="233" y="5" width="223" height="196"/>
+	<SubTexture name="Monte0004" x="461" y="5" width="223" height="196"/>
+	<SubTexture name="Monte0005" x="461" y="5" width="223" height="196"/>
+	<SubTexture name="Monte0006" x="689" y="5" width="223" height="196"/>
+	<SubTexture name="Monte0007" x="689" y="5" width="223" height="196"/>
+	<SubTexture name="Monte0008" x="5" y="206" width="223" height="196"/>
+	<SubTexture name="Monte0009" x="5" y="206" width="223" height="196"/>
+	<SubTexture name="Monte0010" x="5" y="206" width="223" height="196"/>
+	<SubTexture name="Monte0011" x="5" y="206" width="223" height="196"/>
+	<SubTexture name="Monte0012" x="5" y="206" width="223" height="196"/>
+	<SubTexture name="Monte0013" x="5" y="206" width="223" height="196"/>
+</TextureAtlas>

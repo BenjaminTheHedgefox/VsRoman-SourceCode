@@ -1,0 +1,50 @@
+{
+	"storyName": "Roman the Minecrafter",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "roman",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Respite",
+			"roman",
+			[
+				86,
+				0,
+				235
+			]
+		],
+		[
+			"Refresher",
+			"roman",
+			[
+				86,
+				0,
+				235
+			]
+		],
+		[
+			"Reminiscent",
+			"roman",
+			[
+				86,
+				0,
+				235
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Roman"
+}
